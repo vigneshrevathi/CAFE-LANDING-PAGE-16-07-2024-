@@ -105,6 +105,7 @@
 }
 .third-section{
     height: 100vh;
+    
 }
 .gallery{
     display: flex;
@@ -136,10 +137,14 @@
     background-position: center;
     background-size: cover;
 }
+#horizontal{
+    margin-top: 20px;
+    width: 70%;
+    margin-left: 245px;
+}
 .type-amount{
     display: flex;
     margin-top: 60px;
-    border-bottom-style: outset;
     padding-bottom: 40px;
     color: cadetblue;
 }
